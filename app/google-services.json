@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242261305583",
+    "firebase_url": "https://randompedia-72b53.firebaseio.com",
+    "project_id": "randompedia-72b53",
+    "storage_bucket": "randompedia-72b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242261305583:android:6969d7fa3ba705ed",
+        "android_client_info": {
+          "package_name": "com.skysurf.nico.randompedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242261305583-1k6gfdn9rpb5u4gar4h0r1psnp02i82o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysurf.nico.randompedia",
+            "certificate_hash": "e03e704f5b83d6ebbadefc89c4a20d2c60a5a106"
+          }
+        },
+        {
+          "client_id": "242261305583-h53oarijcsn5spsp8g46k03orio8jqfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfjSfkTVC-XzjrXh3tBJx_obC6dgs540"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242261305583-h53oarijcsn5spsp8g46k03orio8jqfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

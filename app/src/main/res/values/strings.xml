@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RandomPedia</string>
+    <string name="menu_singleplayer">Singleplayer</string>
+    <string name="menu_multiplayer">Multiplayer</string>
 </resources>
