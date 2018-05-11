@@ -1,4 +1,4 @@
 package com.skysurf.nico.randompedia.model.profile
 
-class PublicProfile(name: String, id: String) {
+class PublicProfile(val name: String, val id: String) {
 }
